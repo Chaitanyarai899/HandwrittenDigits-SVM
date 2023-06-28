@@ -1,6 +1,6 @@
 # Handwritten Digits Classification Using Support Vector Machine (SVM)
 
-In this Jupyter notebook, our objective is to explore and classify handwritten digits using the popular MNIST dataset. We will build an SVM model that can correctly classify digits from 0 to 9 based on their pixel values.
+Objective here is to explore and classify handwritten digits using the popular MNIST dataset. I have built an SVM model that can correctly classify digits from 0 to 9 based on their pixel values.
 
 ## Objective
 
